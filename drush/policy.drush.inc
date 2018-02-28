@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * @file
  * Customize this file as desired.
  *
  * @see https://github.com/drush-ops/drush/blob/8.x/examples/policy.drush.inc
